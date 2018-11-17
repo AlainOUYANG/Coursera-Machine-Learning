@@ -1,6 +1,6 @@
 # Coursera-Machine-Learning ![Progress](http://progressed.io/bar/12)
 
-This repository contains the assignments that I've compelete for Machine Learning course on Coursera.
+This repository contains the assignments that I've compeleted for Machine Learning course on Coursera.
 
 ### Exercises 1 in week 2 - Linear Regression
 | Part Name                                 | Score     | Feedback   |
