@@ -16,10 +16,10 @@ This repository contains the assignments that I've compeleted for Machine Learni
 
 For Univariat Linear Regression, my results for the profits of 2 cities are:
 
-    * For population = 35,000, we predict a profit of 4519.767868
-    * For population = 70,000, we predict a profit of 45342.450129
+* For population = 35,000, we predict a profit of 4519.767868
+* For population = 70,000, we predict a profit of 45342.450129
 
 For Multivariat Linear Regression, my results for the price of a house with 1650 square feet and 3 bedrooms are:
 
-    * Gradient descent: $292748.085232 (theta = [338658.249249 104127.515597 -172.205334]')
-    * Normal equation: $293081.464335 (theta = [89597.909545 139.210674 -8738.019113]')
+* Gradient descent: $292748.085232 (theta = [338658.249249 104127.515597 -172.205334]')
+* Normal equation: $293081.464335 (theta = [89597.909545 139.210674 -8738.019113]')
